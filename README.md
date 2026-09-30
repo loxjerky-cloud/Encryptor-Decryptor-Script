@@ -1,2 +1,3 @@
 # Encrypter-Decrypter-Script
 This is a python script that can encrypt files and decrypt files.
+I spelled the script wrong. :|
